@@ -17,7 +17,7 @@ function barbarianLines() {
   document.querySelector('body').style.color = '#8d6f55'
 }
 function bardLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/css/img/Bard.png')"
+  document.querySelector('body').style.backgroundImage = "url('../main/css/img/Bard.png')"
   document.querySelector('body').style.color = '#862864'
 }
 
