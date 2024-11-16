@@ -13,11 +13,11 @@ document.getElementById('wizard').onclick = wizardLines
 
 
 function barbarianLines() {
-  document.querySelector('body').style.backgroundImage = "url('../css/img/Barbarian.png')"
+  document.querySelector('body').style.backgroundImage = "url('../main/css/img/Barbarian.png')"
   document.querySelector('body').style.color = '#8d6f55'
 }
 function bardLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dnd-class-picker/css/img/Bard.png')"
+  document.querySelector('body').style.backgroundImage = "url('../dndpicker/css/img/Bard.png')"
   document.querySelector('body').style.color = '#862864'
 }
 
