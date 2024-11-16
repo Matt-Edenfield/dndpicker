@@ -1,0 +1,36 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+html {
+  font-size: 62.5%;
+}
+.outer{
+  width: 8in;
+  height: 11in;
+  border: 10px solid silver;
+  border-radius: 20px;
+  border-style: ridge;
+}
+.inner {
+  width: 90%;
+  margin: 6rem auto;
+}
+hr {
+  font-size: 5rem;
+  font-weight: 80;
+  border-bottom: 2px solid rgba(120, 120, 120, 0.5);
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
