@@ -1,0 +1,123 @@
+/******************************************
+/* HOT GARBAGE - PLEASE DON'T MIMIC THIS CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body {
+  background-size: cover;
+  background-repeat: none;
+  background-color: #e6dace;
+}
+h1{
+  display: flex;
+  place-content: center flex-start;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  height: 150px;
+}
+img{
+  height: 75px;
+  margin: auto .5rem;
+  
+}
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+[class ^='block-'] {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.icon {
+  margin: auto .5rem;
+}
+li{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  font-family: Trebuchet, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: #a1a1a1;
+  text-shadow: 2px 2px 1px #000;
+  border: 5px solid black;
+  border-radius: 5px;
+  border-style: ridge;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
+/* .writingPad {
+  text-align: center;
+  aspect-ratio: 1/2;
+  width: 80%;
+  background-color: #fff;
+  border: 10px solid #a1a1a1;
+  border-radius: 20px;
+  border-style: ridge;
+  margin: 2rem auto;
+}
+.writingPad img {
+  image: repeat;
+} */
+
+
+/*****************************************
+/* Class Icons
+/*****************************************/
+
+#barbarian {
+  background-image: url(img/barbarian.jpeg);
+}
+#bard{
+  background-image: url(img/bard.jpeg);
+}
+#cleric{
+  background-image: url(img/cleric.jpeg);
+}
+#druid{
+  background-image: url(img/druid.jpeg);
+}
+#fighter {
+  background-image: url(img/fighter.jpeg);
+}
+#monk {
+  background-image: url(img/monk.jpeg);
+}
+#paladin {
+  background-image: url(img/paladin.jpeg);
+}
+#ranger {
+  background-image: url(img/ranger.jpeg);
+}
+#rogue {
+  background-image: url(img/rogue.jpeg);
+}
+#sorcerer {
+  background-image: url(img/sorcerer.jpeg);
+}
+#warlock {
+  background-image: url(img/warlock.jpeg);
+}
+#wizard {
+  background-image: url(img/wizard.jpeg);
+}
