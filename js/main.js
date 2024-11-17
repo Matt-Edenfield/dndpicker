@@ -17,12 +17,12 @@ function barbarianLines() {
   document.querySelector('body').style.color = '#8d6f55'
 }
 function bardLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img/Bard.png')"
+  document.querySelector('body').style.backgroundImage = "url('../dndpicker/css/img/Bard.png')"
   document.querySelector('body').style.color = '#862864'
 }
 
 function clericLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img/Cleric.png')"
+  document.querySelector('body').style.backgroundImage = "url('../dndpicker/css/img/Cleric.png')"
   document.querySelector('body').style.color = '#6679a4'
 }
 
