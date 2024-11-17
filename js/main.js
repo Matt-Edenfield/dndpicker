@@ -27,7 +27,7 @@ function clericLines() {
 }
 
 function druidLines() {
-  document.querySelector('body').style.backgroundImage = "url('../css/img//img/Druid.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img/Druid.png')"
   document.querySelector('body').style.color = '#516a4c'
 }
 function fighterLines() {
