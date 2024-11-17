@@ -49,7 +49,7 @@ function rangerLines() {
   document.querySelector('body').style.color = '#4d5337'
 }
 function rogueLines() {
-  document.querySelector('body').style.backgroundImage = "url(../css/img/Rogue.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img/Rogue.png')"
   document.querySelector('body').style.color = '#3f3945'
 }
 function sorcererLines() {
