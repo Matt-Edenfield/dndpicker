@@ -27,42 +27,42 @@ function clericLines() {
 }
 
 function druidLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img//img/Druid.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img//img/Druid.png')"
   document.querySelector('body').style.color = '#516a4c'
 }
 function fighterLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img/Fighter.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img/Fighter.png')"
   document.querySelector('body').style.color = '#49403b'
 }
 function monkLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img/Monk.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img/Monk.png')"
   document.querySelector('body').style.color = '#7fadd1'
 }
 
 function paladinLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img/Paladin.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img/Paladin.png')"
   document.querySelector('body').style.color = '#ce9373'
 }
 
 function rangerLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img/Ranger.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img/Ranger.png')"
   document.querySelector('body').style.color = '#4d5337'
 }
 function rogueLines() {
-  document.querySelector('body').style.backgroundImage = "url(../dndpicker/blob/main/css/img/Rogue.png')"
+  document.querySelector('body').style.backgroundImage = "url(../css/img/Rogue.png')"
   document.querySelector('body').style.color = '#3f3945'
 }
 function sorcererLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img/Sorcerer.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img/Sorcerer.png')"
   document.querySelector('body').style.color = '#7b3c4f'
 }
 
 function warlockLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img/Warlock.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img/Warlock.png')"
   document.querySelector('body').style.color = '#31333f'
 }
 
 function wizardLines() {
-  document.querySelector('body').style.backgroundImage = "url('../dndpicker/blob/main/css/img/Wizard.png')"
+  document.querySelector('body').style.backgroundImage = "url('../css/img/Wizard.png')"
   document.querySelector('body').style.color = '#76707e'
 }
