@@ -52,6 +52,7 @@ function rogueLines() {
   document.querySelector('body').style.backgroundImage = "url('../css/img/Rogue.png')"
   document.querySelector('body').style.color = '#3f3945'
 }
+
 function sorcererLines() {
   document.querySelector('body').style.backgroundImage = "url('../css/img/Sorcerer.png')"
   document.querySelector('body').style.color = '#7b3c4f'
